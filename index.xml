@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nickkarwoski.com</title>
+    <link>https://nick285.github.io/</link>
+    <description>Recent content on nickkarwoski.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Feb 2022 19:47:32 -0600</lastBuildDate><atom:link href="https://nick285.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://nick285.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 17 Feb 2022 19:47:32 -0600</pubDate>
+      
+      <guid>https://nick285.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
