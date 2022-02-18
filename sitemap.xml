@@ -4,15 +4,25 @@
   <url>
     <loc>https://nick285.github.io/</loc>
     <lastmod>2022-02-17T20:02:46-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://nick285.github.io/posts/</loc>
     <lastmod>2022-02-17T20:02:46-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://nick285.github.io/posts/sand-county-caress/</loc>
     <lastmod>2022-02-17T20:02:46-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://nick285.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://nick285.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
